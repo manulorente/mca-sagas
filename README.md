@@ -1,6 +1,6 @@
-# Microservices-P01
+# Customers, Orders and Products Microservices with Eventuate Tram Sagas
 
-Need to configure Java 8 first in order to run the project.
+Proof of concept for microservices using Eventuate Tram Sagas.
 
 ## Deployment
 
